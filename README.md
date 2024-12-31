@@ -4,10 +4,11 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Exciting Project](https://github.com/HungUsername/YourProject)**
-- 🌱 I’m learning **Advanced Backend Development and Cloud Technologies**
+- 🌱 I’m learning **Software Engineering at SaiGon University**  
+  Current GPA: **3.55/4.0**
 - 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
 - 💬 Ask me about **Web Development, API Design, and Scalable Systems**
-- 📫 How to reach me: [hung@example.com](mailto:hung@example.com)
+- 📫 How to reach me: [hungnt.020404@gmail.com](mailto:hungnt.020404@gmail.com)
 - ⚡ Fun fact: **Coding feels better with a playlist! 🎵**
 
 ## 🌟 Skills
@@ -42,8 +43,10 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HungUsername&theme=onestar)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HungUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HungUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HungUsername)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HungUsername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thug0204/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100036421866670)
 
 ## 💻 My Favorite Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HungUsername&repo=YourRepo&theme=radical)](https://github.com/HungUsername/YourRepo)
