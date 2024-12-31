@@ -37,6 +37,12 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)  
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-00A9E0?style=for-the-badge&logo=fish&logoColor=white)
 
+## 🎵 My Hobbies
+- 🎤 I can sing and play the **guitar**, **piano**, and **melodica**.
+- 🎮 I enjoy playing **League of Legends: Wild Rift**.
+- 🏆 I’m a big fan of **Esports**!
+- ⚽ **FC Bayern Munich** supporter.
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HungUsername)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HungUsername)  
