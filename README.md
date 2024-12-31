@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=HungUsername&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Exciting Project](https://github.com/HungUsername/YourProject)**
+- 🔭 I’m currently working on **[Exciting Project](https://github.com/gnuh24/SocialMedia)**
 - 🌱 I’m learning **Software Engineering at SaiGon University**  
   Current GPA: **3.55/4.0**
 - 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
