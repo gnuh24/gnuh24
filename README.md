@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Exciting Project](https://github.com/gnuh24/ecommerce_microservice)**
 - 🌱 I’m learning **Software Engineering at SaiGon University**  
-  Current GPA: **3.58/4.0**
+  Current GPA: **3.6/4.0**
 - 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
 - 💬 Ask me about **Web Development, API Design, and Scalable Systems**
 - 📫 How to reach me: [hungnt.020404@gmail.com](mailto:hungnt.020404@gmail.com)
