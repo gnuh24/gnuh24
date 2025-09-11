@@ -35,7 +35,8 @@
 ### **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Fish Shell](https://img.shields.io/badge/Fish_Shell-00A9E0?style=for-the-badge&logo=fish&logoColor=white) ![Ngrok](https://img.shields.io/badge/ngrok-1C7ED6?style=for-the-badge&logo=ngrok&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-1A82D2?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### **Cloud Services/Media Management (Optional)**
+### **Cloud Services/Media Management**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C3E50?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## 🎵 My Hobbies
