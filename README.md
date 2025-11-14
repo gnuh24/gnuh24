@@ -3,7 +3,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=HungUsername&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Exciting Project](https://github.com/gnuh24/ecommerce_microservice)**
 - 🌱 I’m learning **Software Engineering at SaiGon University**  
   Current GPA: **3.6/4.0**
 - 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
@@ -48,6 +47,7 @@
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thug0204/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100036421866670)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C6%B0ng-ng%C3%B4-tu%E1%BA%A5n-691423327)
 
 ## 🐚 My Setup
 - I'm using **Arch Linux** 🖥️
